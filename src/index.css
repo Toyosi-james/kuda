@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@theme{
+  --breakpoint-tablet:768px;
+}
+body{
+  font-family: "Mulish", sans-serif;
+}
