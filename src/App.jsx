@@ -2,7 +2,7 @@ import React from 'react'
 import Header from "./static/Header"
 import {BrowserRouter,Routes, Route} from "react-router-dom"
 import Home from './pages/Home'
-import Personal from './pages/personal'
+import Personal from './pages/Personal'
 import Business from './pages/Business'
 import Company from './pages/Company'
 import Help from './pages/Help'
